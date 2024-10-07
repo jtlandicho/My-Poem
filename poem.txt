@@ -6,9 +6,6 @@ Orange
 Blue
 Green
 Indigo
-Hello there
-Hiya
-HSDFGID
 Unicorn
 AGAIN
 Yellow
